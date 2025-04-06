@@ -1,7 +1,6 @@
 import React from 'react';
 import '../style/Home.css'
-import Navbar from './Navbar'; 
-import Footer from './Footer';
+import Navbar from '../components/Navbar'; 
 
 const Home = () => {
   return (
@@ -10,7 +9,6 @@ const Home = () => {
       <h1>Bienvenido a Cuboid</h1>
       <p>La aplicacion donde podras gestionar, analizar y simular el futuro de tu negocio!</p>
       <button onClick={() => alert('Has hecho clic en el botón!')}>Haz clic aquí</button>
-    <Footer/>
     </div>
   );
 };

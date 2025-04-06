@@ -1,18 +1,22 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Home from './components/Home'; // Importa el componente Home
-import Login from './components/Login'; // Importa el componente Login (si lo tienes)
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import AuthProvider from './utils/AuthContext'; // Importa el AuthContext
+import Home from './components/Home';
+import Login from './components/Login';
+import PrivateRoute from './components/PrivateRoute'; // Importa PrivateRoute
 
 const App = () => {
   return (
-    <Router>
-      <Routes>
-        {/* Ruta para la página de inicio */}
-        <Route path="/home" element={<Home />} />
-        {/* Ruta para la página de login */}
-        <Route path="/login" element={<Login />} />
-      </Routes>
-    </Router>
+    <AuthProvider>
+      <Router>
+        <Routes>
+          <Route path="/login" element={<Login />} />
+          {/* Cambié component={Home} por envolver Home en el PrivateRoute */}
+          <Route path="/home" element={<PrivateRoute><Home /></PrivateRoute>} />
+          <Route path="/" element={<Navigate to="/login" />} />
+        </Routes>
+      </Router>
+    </AuthProvider>
   );
 };
 

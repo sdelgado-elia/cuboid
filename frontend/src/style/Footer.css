@@ -1,0 +1,26 @@
+.footer {
+
+    background:linear-gradient(to left, #cef1ffff, #00327bff); 
+    background-size: cover;
+    background-position: center;
+    padding: 20px 0;
+    color: white;
+    text-align: center;
+    font-size: small;
+    position: fixed;
+    bottom: 0;
+    left:0;
+    right: 0;
+    width: 100%;
+    height: 50px;
+
+  }
+  
+  .footer-content {
+    background:linear-gradient(to left, #00327bff, #cef1ffff);  /* opcional para mejor contraste */ 
+    padding-top: 2px;
+    top:0;
+    padding-bottom:2px;
+    border-radius: 0px;
+  }
+  

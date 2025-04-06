@@ -1,5 +1,5 @@
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Helvetica;
   line-height: 1.5;
   font-weight: 400;
 
@@ -32,30 +32,7 @@ body {
   overflow: hidden; /* Evita que el contenido se desborde */
 
 }
-.background{
-  position: absolute;
-  top: 0%;
-  left: 0%;
-  right: 0;
-  bottom: 0;
-  background: linear-gradient(to bottom, #535bf2, #b5b5b6); /* Gradiente de colores */
-  width: 100%;
-  height: 100%;
-  z-index: -2; /* Lo pone detrás de todos los demás elementos */
-}
 
-.background-image {
-  position: absolute;
-  top: 10%;
-  left: 25%;
-  right: 0;
-  bottom: 0;
-  background: linear-gradient(to bottom, #b5b5b6, #535bf2); /* Gradiente de colores */
-  z-index: -1; /* Lo pone detrás de todos los demás elementos */
-  width: 50%;
-  height: 80%;
-  border-radius: 5%;
-}
 
 h1 {
   font-size: 3.2em;
@@ -78,12 +55,11 @@ button {
   padding: 0.6em 1.2em;
   font-size: 1em;
   font-weight: 500;
-  font-family: inherit;
+  font-family: Arial, Helvetica, sans-serif;
   background-color: #1a1a1a;
   cursor: pointer;
   transition: border-color 0.25s;
   transition: background-color 0.25s;
-
   margin: 5px;
 }
 
