@@ -6,6 +6,12 @@ import com.cuboid.backend.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import org.springframework.security.core.context.SecurityContextHolder;
+import org.springframework.security.core.Authentication;
+import org.springframework.security.core.GrantedAuthority;
+// import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
+import org.springframework.security.crypto.password.PasswordEncoder;
+
 @Service
 public class UserService {
 
@@ -13,6 +19,8 @@ public class UserService {
     private UserRepository usuarioRepository;
     @Autowired
     private PasswordService passwordService; // Inyectar PasswordService
+    @Autowired
+    private PasswordEncoder passwordEncoder;
 
     public User crearUser(User usuario) {
         // Lógica adicional como cifrar contraseñas si lo deseas
@@ -40,5 +48,28 @@ public class UserService {
         }
     }
 
+    public void resetPassword(String targetUsername, String oldPassword, String newPassword, String currentUsername, boolean isAdmin) {
+        User userInDb = usuarioRepository.findByUsername(targetUsername)
+                .orElseThrow(() -> new RuntimeException("Usuario no encontrado"));
+
+        // Si no soy admin y quiero cambiar la contraseña de otro usuario
+        if (!isAdmin && !currentUsername.equals(targetUsername)) {
+            System.out.println(isAdmin);
+            throw new RuntimeException("🚫 No autorizado para cambiar la contraseña de otro usuario");
+        }
+
+        // Si no soy admin, debo verificar la contraseña actual
+        if (!isAdmin) {
+            if (!passwordEncoder.matches(oldPassword, userInDb.getPassword())) {
+                throw new RuntimeException("❌ La contraseña actual es incorrecta");
+            }
+        }
+
+        // Establecer la nueva contraseña cifrada
+        userInDb.setPassword(passwordEncoder.encode(newPassword));
+        usuarioRepository.save(userInDb);
+
+        System.out.println("🔐 Contraseña actualizada para el usuario: " + userInDb.getUsername());
+    }
     
 }

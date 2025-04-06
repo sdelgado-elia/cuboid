@@ -1,10 +1,15 @@
 package com.cuboid.backend.controller;
 
 import com.cuboid.backend.model.User;
+import com.cuboid.backend.dto.PasswordResetDTO;
 import com.cuboid.backend.service.UserService;
 import com.cuboid.backend.service.PasswordService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.http.ResponseEntity;
+import org.springframework.security.core.context.SecurityContextHolder;
+import org.springframework.security.core.Authentication;
+import org.springframework.security.core.GrantedAuthority;
 
 @RestController
 @RequestMapping("/api/usuarios")
@@ -29,5 +34,14 @@ public class UserController {
 //   "email": "juan@example.com",
 //   "role": "USER"
 // }
+    @PostMapping("/resetpwd")
+    public ResponseEntity<?> resetPassword(@RequestBody PasswordResetDTO data, Authentication authentication) {
+        String currentUsername = authentication.getName();
+        boolean isAdmin = authentication.getAuthorities().stream()
+                .anyMatch(auth -> auth.getAuthority().equals("ROLE_ADMIN"));
 
-}
+        usuarioService.resetPassword(data.getUsername(), data.getOldpassword(), data.getNewpassword(), currentUsername, isAdmin);
+        return ResponseEntity.ok("✅ Contraseña actualizada");
+    };
+
+};
