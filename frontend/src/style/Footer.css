@@ -1,6 +1,6 @@
 .footer {
 
-    background:linear-gradient(to left, #cef1ffff, #00327bff); 
+    background:linear-gradient(to left, #cef1ffff, #535bf2); 
     background-size: cover;
     background-position: center;
     padding: 20px 0;
@@ -17,7 +17,7 @@
   }
   
   .footer-content {
-    background:linear-gradient(to left, #00327bff, #cef1ffff);  /* opcional para mejor contraste */ 
+    background:linear-gradient(to left, #535bf2, #cef1ffff);  /* opcional para mejor contraste */ 
     padding-top: 2px;
     top:0;
     padding-bottom:2px;

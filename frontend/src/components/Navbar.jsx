@@ -10,6 +10,7 @@ const Navbar = () => {
   const navigate = useNavigate();
   const { logout } = useAuth();
 
+
   const toggleMenu = () => setOpen(!open);
 
   const handleLogout = () => {

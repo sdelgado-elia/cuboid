@@ -15,8 +15,12 @@
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    transition: box-shadow 0.5s ease;
   }
-  
+  .navbar:hover {
+    box-shadow: 0 0 40px #535bf2b7;
+  }
+
   .navbar-logo {
     display: flex;
     align-items: center; /* Alinea verticalmente los elementos */
