@@ -7,9 +7,8 @@ const Home = () => {
   return (
     <div >
     <Navbar/>
-      <h1>Bienvenido a Cuboid</h1>
-      <p>La aplicacion donde podras gestionar, analizar y simular el futuro de tu negocio!</p>
-      <button onClick={() => alert('Has hecho clic en el botón!')}>Haz clic aquí</button>
+      <h1>Welcome to Cuboid</h1>
+      <p>The app to manage, analyse and simulte the future for your bussiness!</p>
     <Footer/>
     </div>
   );

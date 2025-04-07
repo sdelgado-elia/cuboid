@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate, Navigate } from 'react-router-dom';
 import axios from 'axios';
 import { useAuth } from '../utils/AuthContext'; // Importa el hook de AuthContext
-import Logo from '../assets/Cuboid_white.png'; // Importa la imagen
+import Logo from '../assets/Cuboid_hex.png'; // Importa la imagen
 import '../style/Login.css'
 
 const Login = () => {
@@ -34,7 +34,7 @@ const Login = () => {
       navigate('/home'); // Redirige al usuario a la página de inicio
 
     } catch (err) {
-      setError('Incorrect username or password');
+      setError('Incorrect credentials');
     }
   };
 
@@ -42,12 +42,14 @@ const Login = () => {
     <div>
       <div className="background"></div>
       
+      
       <div>
         <h1 className='imagen' style={{ color: 'white' }}>Cuboid</h1>
         <img className='imagen' src={Logo} alt="Cuboid Logo" />
         <h2></h2>
         <form className='form' onSubmit={handleLogin}>
-          <div className="background-image"></div>
+        <div className="background-image"></div>
+          
           <div>
             <div className='col'>
               <label>Username</label>
@@ -77,6 +79,7 @@ const Login = () => {
           <button type="submit">Login</button>
           <button className="register" >Register</button>
           {error && <p style={{ color: 'white' }}>{error}</p>}
+        
         </form>
 
       </div>
