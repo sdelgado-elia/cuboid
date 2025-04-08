@@ -44,11 +44,32 @@ const Login = () => {
       
       
       <div>
-        <h1 className='imagen' style={{ color: 'white' }}>Cuboid</h1>
+        <h1 className='Header' style={{ color: 'white' }}>Cuboid</h1>
         <img className='imagen' src={Logo} alt="Cuboid Logo" />
         <h2></h2>
         <form className='form' onSubmit={handleLogin}>
         <div className="background-image"></div>
+        <div className="triangle-1"></div>
+        <div className="triangle-2"></div>
+        <div className="triangle-3"></div>
+        <div className="triangle-4"></div>
+        <div className="triangle-5"></div>
+        <div class="cube">
+          <div class="face front"></div>
+          <div class="face right"></div>
+          <div class="face top"></div>
+        </div>
+        <div class="cube2">
+          <div class="face front"></div>
+          <div class="face right"></div>
+          <div class="face top"></div>
+        </div>
+        <div class="cube3">
+          <div class="face front"></div>
+          <div class="face right"></div>
+          <div class="face top"></div>
+        </div>
+
           
           <div>
             <div className='col'>
