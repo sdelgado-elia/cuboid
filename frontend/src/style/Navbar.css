@@ -33,11 +33,30 @@
   
   .navbar-img {
     height: 40px;
+    transform: translateX(-15px);
     width: 40px; /* Ajusta el tamaño según necesites */
     margin-right: 10px; /* Espacio entre la imagen y el texto */
+    z-index: 2; /* Lo pone detrás de todos los demás elementos */
+  }
+
+  .whitebox {
+    position: absolute;
+    transform: translateX(-55px)skewX(-20deg);;
+    height: 60px;
+    width: 100px; /* Ajusta el tamaño según necesites */
+    background: rgb(255, 255, 255); /* Espacio entre la imagen y el texto */
+  }
+
+  .whitebox2 {
+    position: absolute;
+    transform: translateX(1860%)skewX(-20deg);;
+    height: 60px;
+    width: 100px; /* Ajusta el tamaño según necesites */
+    background: rgb(255, 255, 255); /* Espacio entre la imagen y el texto */
   }
   
   .logo-text {
+    transform: translateX(5px);
     font-size: 1.5rem;
     font-weight: bold;
     color: white;

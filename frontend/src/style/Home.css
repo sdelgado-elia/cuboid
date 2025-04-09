@@ -3,6 +3,7 @@
     margin: 0 auto;
     padding: 2rem;
     text-align: center;
+
   }
   
   .logo {
@@ -41,3 +42,53 @@
     color: #888;
   }
   
+
+  .cube_home {
+    position: absolute;
+    width: 100px;
+    height:100px;
+    left:1700px;
+    transform: rotateX(20deg) rotateY(40deg) scale(2);
+    transform-style: preserve-3d; /* Necesario para que las caras no se aplasten */
+    
+  }
+  .cube_home2{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top:140px;
+    left:50px;
+    transform: rotateX(50deg) rotateY(30deg) scale(0.5);
+    transform-style: preserve-3d; /* Necesario para que las caras no se aplasten */
+    
+  }
+  .cube_home3 {
+    position: fixed;
+    width: 100px;
+    height: 1200px;
+    left:1580px;
+    top:200px;
+    transform: rotateX(15deg) rotateY(60deg);
+    transform-style: preserve-3d; /* Necesario para que las caras no se aplasten */
+    
+  }
+  .cube_home4 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top:250px;
+    left:100px;
+    transform: rotateX(30deg) rotateY(40deg);
+    transform-style: preserve-3d; /* Necesario para que las caras no se aplasten */
+    
+  }
+  .cube_home5 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top:110px;
+    left:260px;
+    transform: rotateX(30deg) rotateY(15deg);
+    transform-style: preserve-3d; /* Necesario para que las caras no se aplasten */
+    
+  }

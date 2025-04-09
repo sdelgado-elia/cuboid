@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../utils/AuthContext";
 import "../style/Navbar.css";
-import Logo from "../assets/Cuboid_white.png";
+import Logo from "../assets/Cuboid_hex.png";
 
 const Navbar = () => {
   const [open, setOpen] = useState(false);
@@ -31,6 +31,8 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-logo">
+        <div className="whitebox"></div>
+        <div className="whitebox2"></div>
         <div className="logo-container">
           <img className="navbar-img" src={Logo} alt="Cuboid Logo" />
         </div>

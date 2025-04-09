@@ -73,7 +73,7 @@ const Login = () => {
           
           <div>
             <div className='col'>
-              <label>Username</label>
+              <label style={{ color: 'white' }}>Username</label>
             </div>
             <div className="col">
               <input
@@ -86,7 +86,7 @@ const Login = () => {
           </div>
           <div>
             <div>
-              <label>Password</label>
+              <label style={{ color: 'white' }}>Password</label>
             </div>
             <div>
               <input
