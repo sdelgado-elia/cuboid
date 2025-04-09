@@ -38,6 +38,10 @@ const Login = () => {
     }
   };
 
+  const handleRegisterClick = () => {
+    // Redirige a la ruta "/register" cuando se hace clic en el botón de registro
+    navigate('/register');
+  };
   return (
     <div>
       <div className="background"></div>
@@ -98,10 +102,10 @@ const Login = () => {
             </div>
           </div>
           <button type="submit">Login</button>
-          <button className="register" >Register</button>
           {error && <p style={{ color: 'white' }}>{error}</p>}
         
         </form>
+          <button className="register" onClick={handleRegisterClick} >Register</button>
 
       </div>
     </div>
