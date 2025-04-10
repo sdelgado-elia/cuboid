@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg64"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo_new.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview66"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="585.29659"
+     inkscape:cy="118.21942"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g31476-6-9"
+     showguides="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:lockguides="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid402241" />
+  </sodipodi:namedview>
+  <defs
+     id="defs61">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient108374">
+      <stop
+         style="stop-color:#242eee;stop-opacity:1"
+         offset="0"
+         id="stop108370" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop108372" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="49.270147 : 16.89993 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="136.52379 : 16.899903 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective11473" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1719">
+      <stop
+         style="stop-color:#deddda;stop-opacity:1"
+         offset="0"
+         id="stop1715" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop1717" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1585">
+      <stop
+         style="stop-color:#deddda;stop-opacity:1"
+         offset="0"
+         id="stop1581" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop1583" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1387">
+      <stop
+         style="stop-color:#deddda;stop-opacity:1"
+         offset="0"
+         id="stop1383" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop1385" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1125">
+      <stop
+         style="stop-color:#deddda;stop-opacity:1"
+         offset="0"
+         id="stop1121" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop1123" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect402356"
+       is_visible="true"
+       lpeversion="1"
+       steps="1"
+       threshold="0.000408163"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect402319"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect402317"
+       is_visible="true"
+       lpeversion="1"
+       steps="1"
+       threshold="0.000408163"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect402313"
+       is_visible="true"
+       lpeversion="1"
+       steps="1"
+       threshold="0.000408163"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient334650">
+      <stop
+         style="stop-color:#0074ff;stop-opacity:1;"
+         offset="0"
+         id="stop334646" />
+      <stop
+         style="stop-color:#241f31;stop-opacity:1"
+         offset="1"
+         id="stop334648" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient334650"
+       id="linearGradient334652"
+       x1="124.49915"
+       y1="19.86074"
+       x2="149.71002"
+       y2="19.86074"
+       gradientUnits="userSpaceOnUse" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="33.664495"
+       height="67.597052"
+       patternTransform="translate(166.0699,320.94995)"
+       id="pattern361326">
+      <path
+         id="path44564-28-3-2"
+         style="fill:#00327b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.82681"
+         d="M 33.664495,67.597052 25.808484,0 8.4885047,4.6735093 0,58.585855 33.664495,67.597052"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/path44564-28-3.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="33.664495"
+       height="67.597052"
+       patternTransform="translate(166.0699,320.94995)"
+       id="pattern361326-6">
+      <path
+         id="path44564-28-3-2-1"
+         style="fill:#00327b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.82681"
+         d="M 33.664495,67.597052 25.808484,0 8.4885047,4.6735093 0,58.585855 33.664495,67.597052"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/path44564-28-3.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </pattern>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient334650"
+       id="linearGradient402215"
+       gradientUnits="userSpaceOnUse"
+       x1="124.49915"
+       y1="19.86074"
+       x2="149.71002"
+       y2="19.86074" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1125"
+       id="linearGradient529511"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.43984373,0,0,0.43984373,-2.59956,14.555005)"
+       x1="78.325554"
+       y1="53.761459"
+       x2="88.74192"
+       y2="34.731239" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1719"
+       id="linearGradient529513"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.43984373,0,0,0.43984373,-2.59956,14.555005)"
+       x1="67.759277"
+       y1="54.670841"
+       x2="92.158394"
+       y2="40.077305" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1585"
+       id="linearGradient529515"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.43984373,0,0,0.43984373,-2.59956,14.555005)"
+       x1="60.662891"
+       y1="40.078556"
+       x2="68.591919"
+       y2="40.15749" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1387"
+       id="linearGradient529517"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.43984373,0,0,0.43984373,5.5105149,14.148557)"
+       x1="60.962299"
+       y1="24.217815"
+       x2="52.960403"
+       y2="24.450003" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient108374"
+       id="linearGradient108376"
+       x1="44.608307"
+       y1="247.13126"
+       x2="56.715057"
+       y2="247.13124"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="49.270147 : 1094.4456 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="136.52379 : 1094.4456 : 1"
+       inkscape:persp3d-origin="105 : 1176.5457 : 1"
+       id="perspective11473-3" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       style="fill:#1a4a8c;fill-opacity:1;fill-rule:evenodd;stroke-width:1.11415"
+       id="rect24386-3-6-9"
+       width="210"
+       height="16.899885"
+       x="0"
+       y="280.1001"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/nav_bg.png"
+       inkscape:export-xdpi="196"
+       inkscape:export-ydpi="196" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g86173-9-6"
+       transform="matrix(3.8055746,0,0,3.8055746,-328.34369,248.10533)" />
+    <path
+       id="path44564-28-6-9-4-2-3"
+       style="fill:#535bf2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.85326"
+       d="m 0,280.10007 v 16.8999 h 72.971702 l 6.264718,-16.85772 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/nav_bg.png"
+       inkscape:export-xdpi="196"
+       inkscape:export-ydpi="196" />
+    <g
+       id="g1933"
+       inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/g1933.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="matrix(0.6511771,0,0,0.72538706,8.0859618,265.03426)">
+      <path
+         id="path44564-28-3-8-7"
+         style="fill:url(#linearGradient529511);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.747928"
+         d="m 34.128112,39.805024 -1.733894,-15.6918 -2.120549,1.584796 0.05564,11.970933"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/path44564-28-3.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path44564-28-3-6-2-9-5-6"
+         style="fill:url(#linearGradient529513);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.747928"
+         d="m 27.173525,39.805024 h 6.954587 l -3.798807,-2.13607 -6.049799,-0.05149 z"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/path44564-28-3.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path44564-28-3-6-2-7-4"
+         style="fill:url(#linearGradient529515);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.747928"
+         d="m 24.279506,37.617468 2.894019,2.187556 0.396641,-15.697572 -2.354752,1.552632 z"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/path44564-28-3.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path44564-28-3-6-59-3"
+         style="fill:url(#linearGradient529517);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.747928"
+         d="m 27.570166,24.107452 -2.354752,1.552632 5.058255,0.03794 2.120549,-1.584797 z"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/path44564-28-3.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <circle
+       style="fill:#535bf2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.399931"
+       id="path8332"
+       cx="19.633072"
+       cy="271.30219"
+       r="4.5808406" />
+    <g
+       id="g6630"
+       transform="rotate(-4.5517816,-227.9182,143.28514)"
+       inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/g6630.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">
+      <path
+         id="rect2199"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
+         d="m 6.1443483,288.72223 2.308055,4.84229 -3.4138387,-3.46134 z"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="rect2199-3"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
+         d="m 11.491922,289.14454 -5.3475737,-0.42231 4.7045287,-1.2258 z"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="rect2199-3-5"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
+         d="m 8.4524033,293.56452 3.0395177,-4.41998 -1.290689,4.68714 z"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g6630-7"
+       transform="rotate(-4.5517816,-0.35727563,-105.7913)"
+       inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/g6630.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">
+      <path
+         id="rect2199-0"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
+         d="m 6.1443483,288.72223 2.308055,4.84229 -3.4138387,-3.46134 z"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="rect2199-3-9"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
+         d="m 11.491922,289.14454 -5.3475737,-0.42231 4.7045287,-1.2258 z"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="rect2199-3-5-3"
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
+         d="m 8.4524033,293.56452 3.0395177,-4.41998 -1.290689,4.68714 z"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g31476"
+       inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/g31476.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500"
+       transform="translate(-28.514921,5.5627948)">
+      <path
+         sodipodi:type="star"
+         style="fill:#535bf2;fill-opacity:1;fill-rule:evenodd"
+         id="path31202"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="-558.47131"
+         sodipodi:cy="891.50995"
+         sodipodi:r1="263.00937"
+         sodipodi:r2="263.00937"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -330.69852,1023.0146 -227.77279,131.5047 -227.7728,-131.5047 0,-263.00933 227.7728,-131.50469 227.77279,131.50468 z"
+         transform="matrix(0.01614663,0,0,0.01614663,54.182169,229.7742)"
+         inkscape:transform-center-y="-0.81187283"
+         inkscape:transform-center-x="-2.6276282e-06" />
+      <g
+         id="g6630-2"
+         transform="rotate(-4.5517816,-555.06999,-191.43617)"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/g6630.png"
+         inkscape:export-xdpi="400"
+         inkscape:export-ydpi="400">
+        <path
+           id="rect2199-9"
+           style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
+           d="m 6.1443483,288.72223 2.308055,4.84229 -3.4138387,-3.46134 z"
+           sodipodi:nodetypes="cccc" />
+        <path
+           id="rect2199-3-1"
+           style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
+           d="m 11.491922,289.14454 -5.3475737,-0.42231 4.7045287,-1.2258 z"
+           sodipodi:nodetypes="cccc" />
+        <path
+           id="rect2199-3-5-2"
+           style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
+           d="m 8.4524033,293.56452 3.0395177,-4.41998 -1.290689,4.68714 z"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect6840"
+       width="4.7664079e-07"
+       height="0.11251191"
+       x="21.755953"
+       y="264.97162"
+       rx="0.015821157"
+       inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/g6630.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g11489"
+       style="fill:#535bf2;fill-opacity:1;fill-rule:evenodd"
+       inkscape:perspectiveID="#perspective11473"
+       inkscape:corner0="1.9858462 : -0.2202682 : 0 : 1"
+       inkscape:corner7="1.9858462 : -0.2202682 : 0.25 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path11501"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="11"
+         d="m 73.233977,322.7993 v 0 0 0 z"
+         points="73.233977,322.7993 73.233977,322.7993 73.233977,322.7993 73.233977,322.7993 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path11491"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="6"
+         d="m 67.934825,326.37443 v 0 l 5.299152,-3.57513 v 0 z"
+         points="67.934825,326.37443 73.233977,322.7993 73.233977,322.7993 67.934825,326.37443 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path11499"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="13"
+         d="m 67.934825,326.37443 v 0 l 5.299152,-3.57513 v 0 z"
+         points="67.934825,326.37443 73.233977,322.7993 73.233977,322.7993 67.934825,326.37443 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path11493"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="5"
+         d="m 67.934825,326.37443 v 0 l 5.299152,-3.57513 v 0 z"
+         points="67.934825,326.37443 73.233977,322.7993 73.233977,322.7993 67.934825,326.37443 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path11497"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="14"
+         d="m 67.934825,326.37443 v 0 l 5.299152,-3.57513 v 0 z"
+         points="67.934825,326.37443 73.233977,322.7993 73.233977,322.7993 67.934825,326.37443 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path11495"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="3"
+         d="m 67.934825,326.37443 v 0 0 0 z"
+         points="67.934825,326.37443 67.934825,326.37443 67.934825,326.37443 67.934825,326.37443 " />
+    </g>
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g12843"
+       style="fill:#535bf2;fill-opacity:1;fill-rule:evenodd"
+       inkscape:perspectiveID="#perspective11473"
+       inkscape:corner0="0.029621054 : -0.064204734 : 0 : 1"
+       inkscape:corner7="0.029621054 : -0.064204734 : 0.25 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path12855"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="11"
+         d="m 109.86876,266.1152 0,0 v 0 z"
+         points="109.86876,266.1152 109.86876,266.1152 109.86876,266.1152 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path12845"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="6"
+         d="m 103.39672,262.71956 v 0 l 6.47204,3.39564 v 0 z"
+         points="103.39672,262.71956 109.86876,266.1152 109.86876,266.1152 103.39672,262.71956 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path12847"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="5"
+         d="m 103.39672,262.71956 0,0 6.47204,3.39564 0,0 z"
+         points="103.39672,262.71956 109.86876,266.1152 109.86876,266.1152 103.39672,262.71956 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path12853"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="13"
+         d="m 103.39672,262.71956 0,0 6.47204,3.39564 0,0 z"
+         points="103.39672,262.71956 109.86876,266.1152 109.86876,266.1152 103.39672,262.71956 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path12851"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="14"
+         d="m 103.39672,262.71956 v 0 l 6.47204,3.39564 v 0 z"
+         points="103.39672,262.71956 109.86876,266.1152 109.86876,266.1152 103.39672,262.71956 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path12849"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="3"
+         d="m 103.39672,262.71956 0,0 v 0 z"
+         points="103.39672,262.71956 103.39672,262.71956 103.39672,262.71956 " />
+    </g>
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g30762"
+       style="fill:#535bf2;fill-opacity:1;fill-rule:evenodd"
+       inkscape:perspectiveID="#perspective11473"
+       inkscape:corner0="-0.49999997 : -0.082100095 : 0 : 1"
+       inkscape:corner7="-0.49999999 : -0.082100097 : 0.25 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30770"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="14"
+         d="m 160.72985,280.10012 v 0 l -8.06868,0 v -1e-5 z"
+         points="160.72985,280.10012 152.66117,280.10012 152.66117,280.10011 160.72985,280.10012 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30772"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="13"
+         d="m 160.72985,280.10012 0,0 -8.06868,0 -1e-5,0 z"
+         points="160.72985,280.10012 152.66117,280.10012 152.66116,280.10012 160.72985,280.10012 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30774"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="11"
+         d="m 152.66116,280.10011 1e-5,0 v 1e-5 l -1e-5,0 z"
+         points="152.66117,280.10011 152.66117,280.10012 152.66116,280.10012 152.66116,280.10011 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30766"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="5"
+         d="m 160.72985,280.10012 0,0 -8.06868,-1e-5 -1e-5,0 z"
+         points="160.72985,280.10012 152.66117,280.10011 152.66116,280.10011 160.72985,280.10012 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30764"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="6"
+         d="m 160.72985,280.10012 v 0 l -8.06869,0 v -1e-5 z"
+         points="160.72985,280.10012 152.66116,280.10012 152.66116,280.10011 160.72985,280.10012 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30768"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="3"
+         d="m 160.72985,280.10012 0,0 v 0 l 0,0 z"
+         points="160.72985,280.10012 160.72985,280.10012 160.72985,280.10012 160.72985,280.10012 " />
+    </g>
+    <g
+       id="g31476-6"
+       inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/g31476.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"
+       transform="matrix(8.4914532,0,0,8.4914532,-213.68513,-1829.3111)">
+      <path
+         sodipodi:type="star"
+         style="fill:#535bf2;fill-opacity:1;fill-rule:evenodd"
+         id="path31202-0"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="-558.47131"
+         sodipodi:cy="891.50995"
+         sodipodi:r1="263.00937"
+         sodipodi:r2="263.00937"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.01614663,0,0,0.01614663,54.182169,229.7742)"
+         inkscape:transform-center-y="-0.81187283"
+         inkscape:transform-center-x="-2.6276282e-06"
+         d="m -330.69852,1023.0146 -227.77279,131.5047 -227.7728,-131.5047 0,-263.00933 227.7728,-131.50469 227.77279,131.50468 z" />
+      <g
+         id="g6630-2-6"
+         transform="rotate(-4.5517816,-555.06999,-191.43617)"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/g6630.png"
+         inkscape:export-xdpi="400"
+         inkscape:export-ydpi="400">
+        <path
+           id="rect2199-9-2"
+           style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
+           d="m 6.1443483,288.72223 2.308055,4.84229 -3.4138387,-3.46134 z"
+           sodipodi:nodetypes="cccc" />
+        <path
+           id="rect2199-3-1-6"
+           style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583;stroke:#ffffff;stroke-opacity:0"
+           d="m 11.491922,289.14454 -5.3475737,-0.42231 4.7045287,-1.2258 z"
+           sodipodi:nodetypes="cccc" />
+        <path
+           id="rect2199-3-5-2-1"
+           style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
+           d="m 8.4524033,293.56452 3.0395177,-4.41998 -1.290689,4.68714 z"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </g>
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g30762-3"
+       style="fill:#535bf2;fill-opacity:1;fill-rule:evenodd"
+       inkscape:perspectiveID="#perspective202159"
+       inkscape:corner0="-0.49999997 : -0.082100095 : 0 : 1"
+       inkscape:corner7="-0.49999999 : -0.082100097 : 0.25 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30774-6"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="11"
+         points="-790.43013,-1368.3485 -790.43013,-1368.3485 -790.43011,-1368.3485 "
+         d="m -790.43011,-1368.3485 h -2e-5 v 0 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30764-4"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="6"
+         points="-790.43013,-1368.3485 -790.43014,-1171.2382 -790.43013,-1368.3485 "
+         d="m -790.43013,-1368.3485 v 0 l -1e-5,197.1103 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30772-8"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="13"
+         points="-790.43013,-1368.3485 -790.43014,-1171.2382 -790.43012,-1171.2382 -790.43011,-1368.3485 "
+         d="m -790.43011,-1368.3485 h -2e-5 l -1e-5,197.1103 h 2e-5 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30766-0"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="5"
+         points="-790.43013,-1368.3485 -790.43014,-1171.2382 -790.43012,-1171.2382 -790.43011,-1368.3485 "
+         d="m -790.43011,-1368.3485 h -2e-5 l -1e-5,197.1103 h 2e-5 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30770-3"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="14"
+         points="-790.43011,-1368.3485 -790.43012,-1171.2382 -790.43011,-1368.3485 "
+         d="m -790.43011,-1368.3485 v 0 l -10e-6,197.1103 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30768-8"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="3"
+         points="-790.43014,-1171.2382 -790.43014,-1171.2382 -790.43012,-1171.2382 "
+         d="m -790.43012,-1171.2382 h -2e-5 v 0 z" />
+    </g>
+    <g
+       id="g31476-6-8"
+       inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/g31476.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"
+       transform="translate(163.8747,26.694699)">
+      <path
+         sodipodi:type="star"
+         style="fill:#535bf2;fill-opacity:1;fill-rule:evenodd"
+         id="path31202-0-8"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="-558.47131"
+         sodipodi:cy="891.50995"
+         sodipodi:r1="263.00937"
+         sodipodi:r2="263.00937"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.01614663,0,0,0.01614663,54.182169,229.7742)"
+         inkscape:transform-center-y="-0.81187283"
+         inkscape:transform-center-x="-2.6276282e-06"
+         d="m -330.69852,1023.0146 -227.77279,131.5047 -227.7728,-131.5047 0,-263.00933 227.7728,-131.50469 227.77279,131.50468 z" />
+      <g
+         id="g6630-2-6-9"
+         transform="rotate(-4.5517816,-555.06999,-191.43617)"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/g6630.png"
+         inkscape:export-xdpi="400"
+         inkscape:export-ydpi="400">
+        <path
+           id="rect2199-9-2-7"
+           style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
+           d="m 6.1443483,288.72223 2.308055,4.84229 -3.4138387,-3.46134 z"
+           sodipodi:nodetypes="cccc" />
+        <path
+           id="rect2199-3-1-6-7"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.264583;stroke-opacity:0"
+           d="m 11.491922,289.14454 -5.3475737,-0.42231 4.7045287,-1.2258 z"
+           sodipodi:nodetypes="cccc" />
+        <path
+           id="rect2199-3-5-2-1-6"
+           style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
+           d="m 8.4524033,293.56452 3.0395177,-4.41998 -1.290689,4.68714 z"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </g>
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g30762-6"
+       style="fill:#535bf2;fill-opacity:1;fill-rule:evenodd"
+       inkscape:perspectiveID="#perspective11473-3"
+       inkscape:corner0="-0.49999997 : -0.082100095 : 0 : 1"
+       inkscape:corner7="-0.49999999 : -0.082100097 : 0.25 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30770-7"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="14"
+         points="66.479015,-416.81641 66.479015,-416.81641 68.613856,-416.81641 "
+         d="m 68.613856,-416.81641 h -2.134841 v 0 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30774-3"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="11"
+         points="66.479015,-416.81641 66.479015,-416.81641 "
+         d="m 66.479015,-416.81641 v 0 0 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30766-5"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="5"
+         points="66.479015,-416.81641 66.479015,-416.81641 68.613854,-416.81641 68.613856,-416.81641 "
+         d="m 68.613856,-416.81641 h -2.134841 v 0 h 2.134839 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30764-6"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="6"
+         points="66.479015,-416.81641 66.479015,-416.81641 68.613854,-416.81641 "
+         d="m 68.613854,-416.81641 h -2.134839 v 0 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30768-2"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="3"
+         points="68.613856,-416.81641 68.613854,-416.81641 68.613854,-416.81641 68.613856,-416.81641 "
+         d="m 68.613856,-416.81641 v 0 h -2e-6 v 0 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30772-5"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="13"
+         points="66.479015,-416.81641 66.479015,-416.81641 68.613854,-416.81641 68.613856,-416.81641 "
+         d="m 68.613856,-416.81641 h -2.134841 v 0 h 2.134839 z" />
+    </g>
+    <g
+       id="g31476-6-9"
+       inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/g31476.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"
+       transform="matrix(8.4914532,0,0,8.4914532,-276.77627,-2011.6544)">
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 39.065408,259.65491 3.677763,6.37007"
+         id="path1312-3-8-7"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 42.743171,259.65491 -3.677763,6.37007"
+         id="path1314-7-9-1"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 37.226527,262.83995 7.355527,-10e-6"
+         id="path1316-4-2-1"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 42.743173,259.65491 -10e-7,6.37007"
+         id="path1318-5-6-5"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 39.06541,259.65491 10e-7,6.37007"
+         id="path1320-2-6-9"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 42.743174,259.65491 1.838879,3.18503"
+         id="path1322-5-4-7"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 42.743174,266.02498 1.838879,-3.18504"
+         id="path1324-4-9-7"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 39.065411,259.65492 -1.838884,3.18503"
+         id="path1326-7-5-6"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 37.226527,262.83995 1.838886,3.18503"
+         id="path1328-4-0-7"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 42.743171,259.65491 -3.677759,4.24672"
+         id="path1330-4-4-3"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 39.065411,259.65493 3.677763,4.2467"
+         id="path1332-3-8-6"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 39.065413,266.02498 3.677761,-4.24671"
+         id="path1334-0-7-5"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 42.743171,266.02498 -3.67776,-4.2467"
+         id="path1336-7-1-6"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 40.291329,263.19384 1.225927,10e-6"
+         id="path1338-8-7-3"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 40.291337,262.48606 1.225914,10e-6"
+         id="path1340-6-2-9"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 39.065408,259.65492 3.677763,-1e-5"
+         id="path61945-8-7-4"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 39.06541,266.02497 3.677761,1e-5"
+         id="path61947-8-2-8"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 39.06541,259.65492 -1.838883,3.18503 1.838884,3.18502 3.677757,1e-5 1.838884,-3.18504 -1.838882,-3.18503 h -3.67776"
+         id="path63741-2-1"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 40.90429,262.83994 2.758324,-1.59252 -0.919444,-1.59251 -3.677757,1e-5 -0.919442,1.59251 2.758319,1.59251"
+         id="path63745-6-2"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 40.90429,262.83994 v 3.18503 l 1.83888,1e-5 1.838881,-3.18504 -0.919437,-1.59252 -2.758321,1.59252"
+         id="path63747-1-9"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 38.145971,261.24743 -0.919444,1.59252 1.838886,3.18502 h 1.838877 v -3.18503 l -2.758319,-1.59251"
+         id="path63749-0-3"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 40.90429,262.83994 2.758322,1.59252 0.919439,0.53084 -1.838881,1.06168 -1.838882,-3.18504"
+         id="path63743-6-9"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 40.90429,262.83994 -3.677765,-2.12336 3.677763,-2.12336 3.677763,2.12336 z"
+         id="path64770-1-0"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 37.226525,260.71658 3.677765,2.12336 -2e-6,4.24671 -3.677763,-2.12335 z"
+         id="path64772-5-8"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 40.90429,262.83994 3.677761,-2.12336 -2e-6,4.24672 -3.677761,2.12335 2e-6,-4.24671"
+         id="path64774-9-8"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 42.74317,259.65491 2e-6,2.12336 v 0 l 1.838878,1.06167"
+         id="path97966-9-0"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.226527,262.83995 1.8389,-1.06165 v 0"
+         id="path97970-9-9"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 39.065409,261.77826 h 3.677762"
+         id="path98368-6"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 39.065409,261.77831 1.83888,3.18499 -1.838878,1.06168 -1.838884,-3.18503 1.838882,-1.06164"
+         id="path105225"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 39.065436,259.65496 -2.7e-5,2.12335"
+         id="path105970"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 41.517249,263.90162 -0.612961,1.06168"
+         id="path105972"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 41.823731,263.37078 0.919439,-1.59252"
+         id="path105974"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 40.904288,264.9633 1.838887,1.06167"
+         id="path106359"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 37.198241,240.6041 3.677763,6.37007"
+         id="path1312-3-8-7-5"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 40.876004,240.6041 -3.677763,6.37007"
+         id="path1314-7-9-1-9"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 35.35936,243.78914 7.355527,-1e-5"
+         id="path1316-4-2-1-8"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 40.876006,240.6041 -10e-7,6.37007"
+         id="path1318-5-6-5-4"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 37.198243,240.6041 1e-6,6.37007"
+         id="path1320-2-6-9-8"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 40.876007,240.6041 1.838879,3.18503"
+         id="path1322-5-4-7-1"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 40.876007,246.97417 1.838879,-3.18504"
+         id="path1324-4-9-7-0"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 37.198244,240.60411 -1.838884,3.18503"
+         id="path1326-7-5-6-3"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 35.35936,243.78914 1.838886,3.18503"
+         id="path1328-4-0-7-0"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 40.876004,240.6041 -3.677759,4.24672"
+         id="path1330-4-4-3-4"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 37.198244,240.60412 3.677763,4.2467"
+         id="path1332-3-8-6-4"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 37.198246,246.97417 3.677761,-4.24671"
+         id="path1334-0-7-5-4"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 40.876004,246.97417 -3.67776,-4.2467"
+         id="path1336-7-1-6-4"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 38.424162,244.14303 1.225927,1e-5"
+         id="path1338-8-7-3-7"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 38.42417,243.43525 1.225914,1e-5"
+         id="path1340-6-2-9-6"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 37.198241,240.60411 3.677763,-1e-5"
+         id="path61945-8-7-4-3"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.621191"
+         d="m 37.198243,246.97416 3.677761,10e-6"
+         id="path61947-8-2-8-1"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 37.198243,240.60411 -1.838883,3.18503 1.838884,3.18502 3.677757,10e-6 1.838884,-3.18504 -1.838882,-3.18503 h -3.67776"
+         id="path63741-2-1-7"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 39.037123,243.78913 2.758324,-1.59252 -0.919444,-1.59251 -3.677757,1e-5 -0.919442,1.59251 2.758319,1.59251"
+         id="path63745-6-2-5"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 39.037123,243.78913 v 3.18503 l 1.83888,10e-6 1.838881,-3.18504 -0.919437,-1.59252 -2.758321,1.59252"
+         id="path63747-1-9-9"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 36.278804,242.19662 -0.919444,1.59252 1.838886,3.18502 h 1.838877 v -3.18503 l -2.758319,-1.59251"
+         id="path63749-0-3-6"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 39.037123,243.78913 2.758322,1.59252 0.919439,0.53084 -1.838881,1.06168 -1.838882,-3.18504"
+         id="path63743-6-9-2"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 39.037123,243.78913 -3.677765,-2.12336 3.677763,-2.12336 3.677763,2.12336 z"
+         id="path64770-1-0-1"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 35.359358,241.66577 3.677765,2.12336 -2e-6,4.24671 -3.677763,-2.12335 z"
+         id="path64772-5-8-7"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 39.037123,243.78913 3.677761,-2.12336 -2e-6,4.24672 -3.677761,2.12335 2e-6,-4.24671"
+         id="path64774-9-8-8"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 40.876003,240.6041 2e-6,2.12336 v 0 l 1.838878,1.06167"
+         id="path97966-9-0-5"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 35.35936,243.78914 1.8389,-1.06165 v 0"
+         id="path97970-9-9-7"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.198242,242.72745 h 3.677762"
+         id="path98368-6-4"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.198242,242.7275 1.83888,3.18499 -1.838878,1.06168 -1.838884,-3.18503 1.838882,-1.06164"
+         id="path105225-1"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.198269,240.60415 -2.7e-5,2.12335"
+         id="path105970-8"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 39.650082,244.85081 -0.612961,1.06168"
+         id="path105972-5"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 39.956564,244.31997 0.919439,-1.59252"
+         id="path105974-9"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 39.037121,245.91249 1.838887,1.06167"
+         id="path106359-7"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <path
+         style="fill:#787ef5;fill-opacity:1;stroke:none;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 46.942012,241.27731 1.838882,-1.06164 1.83888,3.18499 -1.838881,1.06167 -1.838881,-3.18502"
+         id="path107270" />
+      <path
+         style="fill:url(#linearGradient108376);fill-opacity:1;stroke:#000000;stroke-width:0.0565333px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 44.60825,248.19293 1.12e-4,-2.12334 12.106707,-2e-5 -2.4e-5,2.12335 -12.106795,1e-5"
+         id="path107270-3" />
+      <path
+         style="fill:#4049f0;fill-opacity:1;stroke:none;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 52.423304,240.15125 1.838848,1.0617 -1.838842,3.18501 -1.838874,-1.06168 1.838868,-3.18503"
+         id="path107270-5" />
+      <path
+         style="fill:#dbdcfc;fill-opacity:1;stroke:none;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 48.780884,238.09235 -2.7e-5,2.12335 -1.838882,1.06164 1.838883,-3.18503"
+         id="path107518" />
+      <path
+         style="fill:#5961f2;fill-opacity:1;stroke:none;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 54.29749,241.27736 -1.838861,-1.0617 3.4e-5,-2.12334 1.838875,3.18503"
+         id="path107518-3" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:none;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 48.799926,244.42933 1.83889,-1.06165 1.838849,1.0617 -3.677754,-1e-5"
+         id="path107518-3-8" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.198269,240.60415 -2.7e-5,2.12335 3.67776,-6e-5 v -2.12335 z"
+         id="path107651" />
+      <path
+         style="fill:#787ef5;fill-opacity:1;stroke:none;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 48.780873,238.09233 -4e-6,2.12339 3.67776,-6e-5 v -2.12335 z"
+         id="path107766" />
+      <path
+         style="fill:#535bf2;fill-opacity:1;stroke:none;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 48.780894,240.21567 3.677735,-10e-6 -1.838856,3.185 -1.838879,-3.18499"
+         id="path107899" />
+      <path
+         style="fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.0588827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 50.646727,241.27525 2.758322,1.59252 0.919439,0.53084 -1.838881,1.06168 -1.838882,-3.18504"
+         id="path63743-6-9-2-8"
+         inkscape:export-filename="/home/sdelgado/Documents/Proyectos/Forkyfy/Cuboid/cuboid/frontend/src/assets/path1312-3-8-7.png"
+         inkscape:export-xdpi="399.85751"
+         inkscape:export-ydpi="399.85751" />
+      <rect
+         style="fill:#535bf2;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0588826;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect108528"
+         width="0.61635858"
+         height="0.64003539"
+         x="44.609425"
+         y="245.37183"
+         rx="1.3542541"
+         ry="0.26130968" />
+      <rect
+         style="fill:#fefeff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0588826;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect108528-1"
+         width="0.61635858"
+         height="0.64003539"
+         x="56.098709"
+         y="246.06956"
+         rx="1.3542541"
+         ry="0.26130968" />
+      <rect
+         style="fill:#dbdcfc;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0588826;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect108528-1-8"
+         width="0.61635858"
+         height="0.64003539"
+         x="53.761581"
+         y="246.06956"
+         rx="1.3542541"
+         ry="0.26130968" />
+      <rect
+         style="fill:#b8bcfa;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0588826;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect108528-1-8-9"
+         width="0.61635858"
+         height="0.64003539"
+         x="51.374908"
+         y="246.06956"
+         rx="1.3542541"
+         ry="0.26130968" />
+      <rect
+         style="fill:#9a9ef7;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0588826;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect108528-1-8-9-6"
+         width="0.61635858"
+         height="0.64003539"
+         x="49.284561"
+         y="246.06956"
+         rx="1.3542541"
+         ry="0.26130968" />
+      <rect
+         style="fill:#787ef5;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0588826;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect108528-1-8-9-6-4"
+         width="0.61635858"
+         height="0.64003539"
+         x="46.914276"
+         y="246.06956"
+         rx="1.3542541"
+         ry="0.26130968" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 50.646726,237.02853 3.677763,2.12336 -2e-6,4.24672 -3.677761,2.12335 -3.677762,-2.12335 v -4.24672 z"
+         id="path201069" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 50.646725,245.52196 -1e-6,-4.24671"
+         id="path201188" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 46.968963,239.15189 3.677762,2.12335 3.677764,-2.12335"
+         id="path201463" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 50.646726,241.27525 3.67776,2.12336"
+         id="path201465" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.0311588px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 50.646726,241.27525 1.830938,3.15413"
+         id="path201467" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3" />
+</svg>

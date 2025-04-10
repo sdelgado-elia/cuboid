@@ -1,0 +1,177 @@
+
+#root {
+    margin: 0 auto;
+    text-align: center;
+ 
+}
+.register{
+  position: absolute;
+  transform: translateX(-55px)translateY(20px);
+  z-index: 10; 
+}
+
+.form{
+    transform: scale(1);
+    transform-origin: top left;
+}
+.imagen{
+    position: absolute;
+    transform: scale(0.1)translateX(-500%)translateY(-600%);
+
+    z-index: 1;
+}
+.Header{
+    position: absolute;
+    transform: scale(1)translateX(5px)translateY(-300px);
+    z-index: 10; 
+}
+.background{
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+background: linear-gradient(to bottom, #535bf2, #b5b5b6); /* Gradiente de colores */
+width: 100%;
+height: 100%;
+z-index: -2; /* Lo pone detrás de todos los demás elementos */
+}
+
+.background-image {
+    position: absolute;
+    top: -1000px;
+    left: -200px;
+
+    width: 600px;
+    height: 1500px;
+    background: linear-gradient(to bottom, #ffffff, #535bf2); 
+    /* background: #535bf2; */
+    z-index: -1;
+    border-radius: 300px;
+  }
+
+
+
+  .triangle-1 {
+    position: absolute;
+    top: 100px;     /* Mueve el triángulo desde arriba */
+    left: 500px;    /* Mueve el triángulo desde la izquierda */
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 40px solid white;
+    transform: rotate(45deg)scale(0.8);
+  }
+  
+  .triangle-2 {
+    position: absolute;
+    top: -120px;     /* Mueve el triángulo desde arriba */
+    left: -500px;    /* Mueve el triángulo desde la izquierda */
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 40px solid white;
+    transform: rotate(135deg)scale(2);
+
+  }
+  
+  .triangle-3 {
+    position: absolute;
+    top: 20px;     /* Mueve el triángulo desde arriba */
+    left: -500px;    /* Mueve el triángulo desde la izquierda */
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 40px solid white;
+    transform: rotate(45deg);
+  }
+  
+  .triangle-4 {
+    position: absolute;
+    top: 40px;     /* Mueve el triángulo desde arriba */
+    left: 600px;    /* Mueve el triángulo desde la izquierda */
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 40px solid white;
+    transform: rotate(135deg);
+  }
+  
+  .triangle-5 {
+    position: absolute;
+    top: -80px;     /* Mueve el triángulo desde arriba */
+    left: 500px;    /* Mueve el triángulo desde la izquierda */
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 40px solid white;
+    transform: rotate(-30deg);
+    transform: scale(1.5);
+  }
+  
+  
+  
+
+
+
+  .cube {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left:350px;
+    transform: rotateX(30deg) rotateY(60deg);
+    transform-style: preserve-3d; /* Necesario para que las caras no se aplasten */
+    
+  }
+  
+  .face {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255, 255, 255, 0.7);
+
+    box-sizing: border-box;
+  }
+  
+  /* Caras del cubo */
+  .front {
+    transform: translateZ(50px);
+    background-color: rgb(255, 255, 255); /* Cara roja */
+  }
+  
+  .right {
+    transform: rotateY(90deg) translateZ(-50px);
+    background-color: rgb(221, 221, 221); /* Cara verde */
+  }
+  
+  .top {
+    transform: rotateX(-90deg) translateZ(50px);
+    background-color: rgb(168, 168, 168); /* Cara azul */
+  }
+
+  .cube2{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top:-200px;
+    left:-300px;
+    transform: rotateX(30deg) rotateY(30deg);
+    transform-style: preserve-3d; /* Necesario para que las caras no se aplasten */
+    
+  }
+
+  .cube3{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top:-100px;
+    left:-200px;
+    transform: rotateX(60deg) rotateY(30deg) scale(01);
+    transform-style: preserve-3d; /* Necesario para que las caras no se aplasten */
+    
+  }
