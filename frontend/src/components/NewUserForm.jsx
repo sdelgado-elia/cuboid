@@ -23,27 +23,24 @@ const NewUserForm = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    console.log("Datos del usuario:", formData);
-    alert("Success. Please confirm your email");
-
-    try {
+      try {
       const response = await axios.post('http://localhost:8080/api/auth/register', {
         username: formData.nombre,  // Usamos 'nombre' para el 'username'
         email: formData.email,
         password: formData.password,
       });
-
       // Almacena el token en el localStorage
       localStorage.setItem('userToken', response.data.token);
 
       // Si tienes una función login, la puedes invocar aquí para actualizar el estado de autenticación
       // login(response.data.token);
-
+      alert("Success. Please confirm your email");
       navigate('/login');  // Redirige al usuario al login
-    } catch (err) {
-      console.error("Error al registrar el usuario:", err);
-      setError('Error al registrar el usuario');
-    }
+    }catch (err) {
+        let mensaje = 'Error desconocido al registrar el usuario.';
+        console.log(err)
+        alert(err.response.data);
+      }
   };
 
   return (

@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate, Navigate } from 'react-router-dom';
 import axios from 'axios';
 import { useAuth } from '../utils/AuthContext'; // Importa el hook de AuthContext
-import Logo from '../assets/Cuboid_hex.png'; // Importa la imagen
+import Logo from '../assets/Qubony.png'; // Importa la imagen
 import '../style/Login.css'
 
 const Login = () => {
@@ -48,7 +48,7 @@ const Login = () => {
       
       
       <div>
-        <h1 className='Header' style={{ color: 'white' }}>Cuboid</h1>
+        <h1 className='Header'>Qubony</h1>
         <img className='imagen' src={Logo} alt="Cuboid Logo" />
         <h2></h2>
         <form className='form' onSubmit={handleLogin}>
@@ -77,7 +77,7 @@ const Login = () => {
           
           <div>
             <div className='col'>
-              <label style={{ color: 'white' }}>Username</label>
+              <label >Username</label>
             </div>
             <div className="col">
               <input
@@ -90,7 +90,7 @@ const Login = () => {
           </div>
           <div>
             <div>
-              <label style={{ color: 'white' }}>Password</label>
+              <label >Password</label>
             </div>
             <div>
               <input
@@ -102,7 +102,7 @@ const Login = () => {
             </div>
           </div>
           <button type="submit">Login</button>
-          {error && <p style={{ color: 'white' }}>{error}</p>}
+          {error && <p >{error}</p>}
         
         </form>
           <button className="register" onClick={handleRegisterClick} >Register</button>

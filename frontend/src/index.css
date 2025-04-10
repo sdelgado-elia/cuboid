@@ -29,7 +29,8 @@ body {
   min-width: 100vw; /* Asegura que el ancho del body sea el 100% de la ventana */
   min-height: 100vh; /* Asegura que la altura del body sea el 100% de la ventana */
   position: relative;
-  overflow: hidden; /* Evita que el contenido se desborde */
+  overflow-x: hidden; /* 🟢 Bloquea solo el scroll horizontal, que sí querés evitar */
+  overflow-y: auto; 
 
 }
 

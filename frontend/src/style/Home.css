@@ -1,11 +1,25 @@
 #root {
-    max-width: 1280px;
+    max-width: 100%;
     margin: 0 auto;
     padding: 2rem;
     text-align: center;
 
   }
   
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Oculta scroll horizontal si se desborda */
+    overflow-y: auto; /* Oculta scroll horizontal si se desborda */
+    height: 100%;
+    width: 100%;
+  }
+
   .logo {
     height: 6em;
     padding: 1.5em;
@@ -43,15 +57,7 @@
   }
   
 
-  .cube_home {
-    position: absolute;
-    width: 100px;
-    height:100px;
-    left:1700px;
-    transform: rotateX(20deg) rotateY(40deg) scale(2);
-    transform-style: preserve-3d; /* Necesario para que las caras no se aplasten */
-    
-  }
+
   .cube_home2{
     position: absolute;
     width: 100px;
@@ -62,16 +68,7 @@
     transform-style: preserve-3d; /* Necesario para que las caras no se aplasten */
     
   }
-  .cube_home3 {
-    position: fixed;
-    width: 100px;
-    height: 1200px;
-    left:1580px;
-    top:200px;
-    transform: rotateX(15deg) rotateY(60deg);
-    transform-style: preserve-3d; /* Necesario para que las caras no se aplasten */
-    
-  }
+
   .cube_home4 {
     position: absolute;
     width: 100px;

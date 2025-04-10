@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../utils/AuthContext";
 import "../style/Navbar.css";
-import Logo from "../assets/Cuboid_hex.png";
+import Logo from "../assets/Qubony.png";
 
 const Navbar = () => {
   const [open, setOpen] = useState(false);
@@ -36,7 +36,7 @@ const Navbar = () => {
         <div className="logo-container">
           <img className="navbar-img" src={Logo} alt="Cuboid Logo" />
         </div>
-        <div className="logo-text">Cuboid</div>
+        <div className="logo-text">Qubony</div>
       </div>
 
       <ul className="navbar-links">

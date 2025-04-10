@@ -32,9 +32,9 @@
   }
   
   .navbar-img {
-    height: 40px;
-    transform: translateX(-15px);
-    width: 40px; /* Ajusta el tamaño según necesites */
+    height: 50px;
+    transform: translateX(-20px);
+    width: 50px; /* Ajusta el tamaño según necesites */
     margin-right: 10px; /* Espacio entre la imagen y el texto */
     z-index: 2; /* Lo pone detrás de todos los demás elementos */
   }
@@ -58,6 +58,7 @@
   .logo-text {
     transform: translateX(5px);
     font-size: 1.5rem;
+    font-family: Helvetica, sans-serif;
     font-weight: bold;
     color: white;
   }

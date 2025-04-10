@@ -16,13 +16,13 @@
 }
 .imagen{
     position: absolute;
-    transform: scale(0.05)translateX(-1000%)translateY(-1100%);
+    transform: scale(0.1)translateX(-500%)translateY(-600%);
 
     z-index: 1;
 }
 .Header{
     position: absolute;
-    transform: scale(1)translateX(12px)translateY(-300px);
+    transform: scale(1)translateX(5px)translateY(-300px);
     z-index: 10; 
 }
 .background{
@@ -44,7 +44,7 @@ z-index: -2; /* Lo pone detrás de todos los demás elementos */
 
     width: 600px;
     height: 1500px;
-    background: linear-gradient(to bottom, #535bf200, #535bf2); 
+    background: linear-gradient(to bottom, #ffffff, #535bf2); 
     /* background: #535bf2; */
     z-index: -1;
     border-radius: 300px;

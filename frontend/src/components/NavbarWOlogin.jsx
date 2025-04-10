@@ -34,7 +34,7 @@ const Navbar = () => {
         <div className="logo-container">
           <img className="navbar-img" src={Logo} alt="Cuboid Logo" />
         </div>
-        <div className="logo-text">Cuboid</div>
+        <div className="logo-text">Qubony</div>
       </div>
 
       <ul className="navbar-links">

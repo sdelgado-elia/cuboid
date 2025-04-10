@@ -11,6 +11,8 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.web.bind.annotation.*;
 import com.cuboid.backend.service.UserService;
 import com.cuboid.backend.service.PasswordService;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 
 import jakarta.validation.Valid;
 
@@ -33,12 +35,33 @@ public class AuthController {
         this.authenticationManager = authenticationManager;
     }
 
+    // @PostMapping("/register")
+    // public User crearUser(@RequestBody User usuario) {
+    //     usuario.setPassword(passwordService.encodePassword(usuario.getPassword()));
+    //     usuario.setRole("USER");
+    //     System.out.println(usuario.getRole());
+    //     try {
+    //         return usuarioService.crearUser(usuario);
+    //     } catch (RuntimeException e) {
+    //         // Logueás el error, pero lo relanzas para que lo maneje el GlobalExceptionHandler
+    //         System.err.println("Error al crear usuario: " + e.getMessage());
+    //         throw e;
+    //     }
+        
+    // }
+
     @PostMapping("/register")
-    public User crearUser(@RequestBody User usuario) {
-        usuario.setPassword(passwordService.encodePassword(usuario.getPassword()));
-        usuario.setRole("USER");
-        System.out.println(usuario.getRole());
-        return usuarioService.crearUser(usuario);
+    public ResponseEntity<?> crearUser(@RequestBody @Valid User usuario) {
+        try {
+            usuario.setPassword(passwordService.encodePassword(usuario.getPassword()));
+            usuario.setRole("USER");
+            User createdUser = usuarioService.crearUser(usuario);
+            return ResponseEntity.status(HttpStatus.CREATED).body(createdUser);
+        } catch (RuntimeException e) {
+            // Se podría mejorar el manejo de errores aquí para retornar una respuesta adecuada.
+            return ResponseEntity.status(HttpStatus.CONFLICT)
+                .body(e.getMessage());
+        }
     }
 
     @PostMapping("/login")

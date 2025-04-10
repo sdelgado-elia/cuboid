@@ -24,8 +24,8 @@ public class UserService {
 
     public User crearUser(User usuario) {
         // Lógica adicional como cifrar contraseñas si lo deseas
-        if (usuarioRepository.existsByUsername(usuario.getUsername())) {
-            throw new RuntimeException("El nombre de usuario ya está registrado");
+        if (usuarioRepository.existsByUsername(usuario.getUsername()) || usuarioRepository.existsByEmail(usuario.getEmail())) {
+            throw new RuntimeException("El nombre de usuario o el correo electrónico ya están registrados");
         }
         
         return usuarioRepository.save(usuario);
